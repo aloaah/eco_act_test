@@ -29,6 +29,7 @@
 * Database should be filled only if it's not already filled with the data
 * Handling of conflict in create element
 * Define status code for errors
+* Add pagination
 
 ## Exposing the data
 * we could follow the current database models and having for exemple:
